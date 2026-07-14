@@ -1,6 +1,6 @@
 <div align="center">
 
-# KRISHTI
+# AI-Agent-Hub_sopke
 
 ### Autonomous AI Bot for Windows Automation
 
@@ -11,7 +11,7 @@
 
 ---
 
-**KRISHTI** is an autonomous AI agent built on the **Hub-Spoke agentic architecture**. It routes tasks to specialized subagents — never executing scripts directly, but orchestrating them intelligently.
+An autonomous AI agent built on the **Hub-Spoke agentic architecture**. It routes tasks to specialized subagents — never executing scripts directly, but orchestrating them intelligently.
 
 [Quick Start](#quick-start) • [Features](#features) • [Architecture](#architecture) • [Skills](#skills) • [Setup](#setup)
 
@@ -254,7 +254,19 @@ D:\claude\windowsautomation\
 | *"Read my WhatsApp"* | Last WhatsApp message read via CDP |
 
 ---
+---
+### Git Command
+ git add .
+ git commit -m "AI Agent Upload "
+ git push 
 
+ To clearn Prev Creadential 
+
+echo "protocol=https
+host=github.com" | git credential-manager erase
+
+####
+---
 <div align="center">
 
 **Built with OpenCode** • **Powered by `big-pickle`** • **Hub-Spoke Architecture**
