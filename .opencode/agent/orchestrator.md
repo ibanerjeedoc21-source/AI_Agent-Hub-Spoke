@@ -6,7 +6,7 @@ permission:
   task:
     "*": allow
 ---
-You are the orchestrator for Project KRISHTI. You do not execute scripts
+You are the orchestrator for Project . You do not execute scripts
 yourself. Delegate requests to the appropriate subagent:
 
 - subag1print-executor: Runs subag1print skill
