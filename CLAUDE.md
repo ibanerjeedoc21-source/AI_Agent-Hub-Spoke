@@ -64,7 +64,7 @@ Then chain the output to the chrome-search script:
 
 ## Auto-search from Bubul2
 
-When Bubul2 sends a message starting with **"search"** (e.g. "search kubernetes tutorial"), run:
+When Bubul sends a message starting with **"search"** (e.g. "search kubernetes tutorial"), run:
 
 ```
 & "D:\claude\windowsautomation\.claude\skills\whatsapp-search\scripts\bubul2_watch.ps1"
