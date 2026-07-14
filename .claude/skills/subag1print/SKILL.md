@@ -1,6 +1,6 @@
 ---
 name: subag1print
-description: Creates a test file and prints its contents in PowerShell + opens CMD window to display file content.
+description: Creates a test file & prints its contents in PowerShell + opens CMD window to display file content.
 ---
 Run scripts/create-and-print-ps.ps1 using:
 powershell -ExecutionPolicy Bypass -File .claude/skills/subag1print/scripts/create-and-print-ps.ps1
