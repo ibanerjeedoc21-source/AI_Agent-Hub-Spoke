@@ -1,6 +1,8 @@
 <div align="center">
 
-# AI-Agent-Hub_sopke  : The capabilities 1. Chromesearch 2. Whatsappsearch  3. Windowssysadmin not mapped with AI agent -Hubspoke
+# AI-Agent-Hub_spoke  
+
+###  The capabilities 1. Chromesearch 2. Whatsappsearch  3. Windowssysadmin not mapped with AI agent -Hubspoke
 
 ### Autonomous AI Bot for Windows Automation
 
