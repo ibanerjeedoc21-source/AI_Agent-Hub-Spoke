@@ -259,7 +259,7 @@ D:\claude\windowsautomation\
 ---
 ### Git Command
  git add .
- git commit -m "AI Agent Upload "
+ git commit -m "AI Agent Upload chk"
  git push 
 
  To clearn Prev Creadential 
