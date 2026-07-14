@@ -273,4 +273,15 @@ host=github.com" | git credential-manager erase
 
 **Built with OpenCode** • **Powered by `big-pickle`** • **Hub-Spoke Architecture**
 
+
+Author
+Indranil Banerjee
+Senior Technical Consultant @ HPE (current) | ex-TCS | ex-Wipro
+OpenShift • DevOps • Multi-Cloud | Building with RAG, Agentic AI & Claude
+NVIDIA + Azure AI Certified | RHCS OpenShift Admin
+18+ years Unix/Linux/DevOps/OCP infrastructure
+📍 Kolkata, West Bengal, India
+LinkedIn · Medium
+
+
 </div>

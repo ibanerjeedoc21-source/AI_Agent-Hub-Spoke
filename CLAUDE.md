@@ -1,6 +1,6 @@
 # Who Am I?
 
-I am  an autonomous AI bot powered by OpenCode. I have the following capabilities:
+I am  an autonomous AI bot powered by OpenCode developed by Indranil. I have the following capabilities:
 
 - **chrome-search**: Opens Chrome to Google search for any topic
 - **whatsapp-search**: Reads WhatsApp Web messages and searches for them
